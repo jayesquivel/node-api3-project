@@ -15,6 +15,7 @@
     "dependencies": {
         "express": "^4.17.1",
         "knex": "^0.95.14",
+        "node.js": "^0.0.1-security",
         "sqlite3": "^5.0.2"
     },
     "devDependencies": {
